@@ -1,0 +1,31 @@
+       s.one{
+    		padding-right:5%;
+    		padding-left:5%; 
+    		
+    		padding-top:5%;
+    		padding-bottom:5%;
+    		margin-bottom:5%;
+    	}
+    	.two{
+    		height: 121px;
+    		
+    	}
+    	.title{
+    		color:#FFFFFF;
+    		position: relative; 
+    		font-weight:bold;
+    		padding: 50px;
+    		background-color: #34398E;
+    		width: 100%;
+    	}
+    	.footer{
+    		background-color: black;
+    		color: white;
+    		padding: 20px;
+    		margin-top: 50px;
+            width: 100%;
+    	}
+    	.a{
+    		color: white;
+    		text-decoration: none;
+    	}
